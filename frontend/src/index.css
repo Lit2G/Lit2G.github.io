@@ -22,7 +22,7 @@
   --shadow-lg:    0 12px 40px rgba(36,27,58,.18);
   --header-h:     72px;
   --footer-h:     48px;
-  --font-display: "Fraunces", Georgia, serif;
+  --font-display: "Inter", "Hanken Grotesk", system-ui, sans-serif;
   --font-body:    "Hanken Grotesk", system-ui, -apple-system, sans-serif;
   --font-mono:    "IBM Plex Mono", ui-monospace, monospace;
   --maxw:         1180px;
